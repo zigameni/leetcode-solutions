@@ -1,14 +1,18 @@
 # LeetCode Solutions
 
+My Leetcode: https://leetcode.com/u/shehumeni/
+
 A collection of my solutions to LeetCode problems, categorized by difficulty and topic. This repository includes problems I have solved as well as problems I plan to solve. Solutions are implemented in **C++** using various techniques, including dynamic programming, recursion, and greedy algorithms.
 
 ## Table of Contents
 
-- [Categories](#categories)
-- [Folder Structure](#folder-structure)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
+- [LeetCode Solutions](#leetcode-solutions)
+  - [Table of Contents](#table-of-contents)
+  - [Categories](#categories)
+  - [Folder Structure](#folder-structure)
+    - [Problem Folders](#problem-folders)
+  - [How to Use](#how-to-use)
+  - [License](#license)
 
 ## Categories
 
